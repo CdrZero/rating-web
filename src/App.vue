@@ -7,7 +7,7 @@
   </div>
 </template>
 
-<script>https://github.com/CdrZero/rating-web/blob/master/src/App.vue
+<script>
 export default {
   name: "app"
 };
